@@ -28,6 +28,7 @@ string ifile, ofile;
 cout<<"please input your name:\n";
 string x = "this is a good job";
 cout << x <<endl;
-cin>>ifile >> ofile;
+cin>>ifile >> ofile>>endl;
+cout>>ifile>>"">>ofile;
    return 0;
 }
